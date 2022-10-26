@@ -1,0 +1,14 @@
+{
+    "seed": 123,
+    "task": "webnlg",
+    "model_name": "gpt2",
+    "model_checkpoint": "",
+    "n_epochs": 10,
+    "train_batch_size": 8,
+    "valid_batch_size": 8,
+    "gradient_accumulation_steps": 1,
+    "lr": 6.25e-05,
+    "patience": 5,
+    "non_linearity": "relu",
+    "unfreeze_all": true
+}
