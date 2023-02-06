@@ -34,7 +34,7 @@ The code for nlg tasks is partially adapted from [this repo](https://github.com/
 
 ### Setup Data
 
-- Download `data.zip` from [here](https://1drv.ms/u/s!AqsZ7ICy6kBI41-2ALmXJh3qV_l_?e=jaKWJQ), and unzip it. There will be a `data` folder.
+- Download `data.zip` from [here](https://1drv.ms/u/s!AqsZ7ICy6kBI41-2ALmXJh3qV_l_?e=cjaJhJ), and unzip it. There will be a `data` folder.
 - Place the `data` folder under the directory `kernel-adapters/nlg/`.
 
 ### Run Code
